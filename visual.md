@@ -17,10 +17,9 @@
 
 #### select에서 컬러를 누르게 되면 색상을 선택할 수 있도록 하였습니다. 
 
-
-![image](https://github.com/qkrgudals1030/VisualTeam/assets/50895124/a4148ba0-74f8-46e1-b49a-6cfac288ee83)
-
  #### 펜의 굵기는 16으로 하고, 펜의 색상은 푸른색으로 하여 팀플이라는 글자를 적고 저장하엿습니다. 
+ 
+![image](https://github.com/qkrgudals1030/VisualTeam/assets/50895124/a4148ba0-74f8-46e1-b49a-6cfac288ee83)
 
  ### sdi(단일문서) 프로그램은 한 번에 하나의 문서 작업만이 가능하다. 
 
